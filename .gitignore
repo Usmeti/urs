@@ -1,0 +1,8 @@
+# Node dependencies
+node_modules/
+
+# Generated config file
+config.js
+
+# Environment files
+.env
