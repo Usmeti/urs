@@ -1,0 +1,9 @@
+{
+  "name": "douyin-stock-analyzer",
+  "version": "1.0.0",
+  "description": "前端抖音热搜金融分析示例",
+  "scripts": {
+    "build": "node generate-config.js",
+    "test": "echo \"No tests specified\""
+  }
+}
